@@ -1,0 +1,4 @@
+D:\Svn_Company\WebApplication1\bin\WebApplication1.dll
+D:\Svn_Company\WebApplication1\bin\WebApplication1.pdb
+D:\Svn_Company\WebApplication1\obj\Debug\WebApplication1.dll
+D:\Svn_Company\WebApplication1\obj\Debug\WebApplication1.pdb
